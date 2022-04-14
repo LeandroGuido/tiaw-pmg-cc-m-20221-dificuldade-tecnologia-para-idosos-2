@@ -15,7 +15,6 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 
 * Daniel de Oliveira Capanema
 * Rommel Vieira Carneiro
-* Carlos Alberto Marques Pietrobon
 
 ## Instruções de utilização
 
