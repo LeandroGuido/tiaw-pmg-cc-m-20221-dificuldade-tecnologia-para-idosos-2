@@ -1,21 +1,20 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Dificuldade acesso a tecnlogia para idosos
 
 `CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Ciência da Computação
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
-> Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+-Arthur Patrocínio Neves
+-Marcelo Augusto Moreira
+-Gabriel Máximo de Castro
+-Igor Rodrigues de Abreu
+-Leandro Guido Lorenzini Santos
+-Pedro Corrêa Rigotto
 
 # Estrutura do Documento
 
@@ -56,23 +55,11 @@
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Muitos idosos hoje em dia apresentão dificuldades para usar as novas tecnlogias e tem curiosidade em aprender mais sobre.
+Usar aplicativo do banco, acessar novas formas de entretirimentos como netflix ou spotify, usar melhor e mais as redes sociais, entrou outros. Esse são alguns exemplos de funcionalidades que a tecnolgia pode proporcionar que ajudaria a vida dos idosos.
 
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+> 
+
 
 ## Objetivos
 
