@@ -9,12 +9,12 @@ Ciência da Computação
 
 ## Participantes
 
->-Arthur Patrocínio Neves
->-Marcelo Augusto Moreira
->-Gabriel Máximo de Castro
->-Igor Rodrigues de Abreu
->-Leandro Guido Lorenzini Santos
->-Pedro Corrêa Rigotto
+> -Arthur Patrocínio Neves
+> -Marcelo Augusto Moreira
+> -Gabriel Máximo de Castro
+> -Igor Rodrigues de Abreu
+> -Leandro Guido Lorenzini Santos
+> -Pedro Corrêa Rigotto
 
 # Estrutura do Documento
 
@@ -56,7 +56,7 @@ Ciência da Computação
 ## Problema
 
 Muitos idosos hoje em dia apresentão dificuldades para usar as novas tecnlogias e tem curiosidade em aprender mais sobre.
-Usar aplicativo do banco, acessar novas formas de entretirimentos como netflix ou spotify, usar melhor e mais as redes sociais, entrou outros. Esse são alguns exemplos de funcionalidades que a tecnolgia pode proporcionar que ajudaria a vida dos idosos.
+Usar aplicativo do banco, acessar novas formas de entreterimento como netflix ou spotify, usar melhor e mais as redes sociais, entrou outros. Esse são alguns exemplos de funcionalidades que a tecnolgia pode proporcionar que ajudaria a vida dos idosos.
 
 > 
 
