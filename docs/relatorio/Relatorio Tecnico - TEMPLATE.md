@@ -9,12 +9,12 @@ Ciência da Computação
 
 ## Participantes
 
-> -Arthur Patrocínio Neves
-> -Marcelo Augusto Moreira
-> -Gabriel Máximo de Castro
-> -Igor Rodrigues de Abreu
-> -Leandro Guido Lorenzini Santos
-> -Pedro Corrêa Rigotto
+> - Arthur Patrocínio Neves
+> - Marcelo Augusto Moreira
+> - Gabriel Máximo de Castro
+> - Igor Rodrigues de Abreu
+> - Leandro Guido Lorenzini Santos
+> - Pedro Corrêa Rigotto
 
 # Estrutura do Documento
 
